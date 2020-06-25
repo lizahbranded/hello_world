@@ -1,2 +1,2 @@
 # hello_world
-Me learning Git
+She gorgeuos
